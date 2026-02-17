@@ -530,7 +530,7 @@ footer{
 
 
 /* ----- MEDIA QUERY == 1024px / RESPONSIVE ----- */
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width: 10px){
     .featured-text{
         padding: 0;
     }
@@ -636,3 +636,4 @@ footer{
         width: 100%;
     }
 }
+
